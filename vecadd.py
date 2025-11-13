@@ -11,3 +11,4 @@ else:
 print("*output using old code*")
 
 print(np.dot(a, b))
+print("Hello")
